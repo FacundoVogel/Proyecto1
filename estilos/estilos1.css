@@ -4,6 +4,8 @@ header {
     background-color: #7A4419;
     width: auto; 
     border-radius: 20px;
+    border: 3px solid #515A47;
+    text-align: center;
 }
 
 body {
@@ -53,4 +55,13 @@ p {
 
 .pBody {
     color: #7A4419;
+}
+
+ul {
+    list-style: none;
+}
+
+#navHeader {
+    display: inline;
+    justify-content: space-around;
 }
