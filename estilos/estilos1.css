@@ -144,3 +144,11 @@ main a:hover {
 .linkFutbol:visited {
     font-weight: bold;
 }
+
+.saludo {
+    font-size: 26px;
+}
+
+footer p {
+    margin-bottom: 5px;
+}
